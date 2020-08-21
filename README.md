@@ -1,4 +1,4 @@
-#Description and Data Set Links
+# Description and Data Set Links
 
 Big Mart Sales Prediction
 Performed analysis on the dataset followed by predictions of the sales in amount in Big Mart depending on various features.

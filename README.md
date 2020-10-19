@@ -1,6 +1,6 @@
 # Big Mart Sales Prediction
 
-Performed analysis on the dataset followed by predictions of the sales in amount in Big Mart depending on various features.
+Performed analysis on the dataset followed by predictions of the sales amount in Big Mart depending on various features.
 Analysis performed using numpy, pandas, matplotlib and seaborn libraries. It is a regression problem solved using various supervised machine learning models in scikit learn and performance of the algorithms is compared.
 
 Link to dataset : https://www.kaggle.com/anshg98/walmart-sales

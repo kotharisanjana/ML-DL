@@ -7,7 +7,7 @@ Link to dataset : https://www.kaggle.com/anshg98/walmart-sales
 
 # DJIA Stock Price Prediction
 
-Prediction of the highest price of each of the DJIA stocks on each day in the period 2016-2018 based on the trend learnt from the highest prices in the period 2006-2015. LSTM model was built that made predictions with an RMSE of 1.8.
+Prediction of the highest price of each of the DJIA stocks on each day in the period 2016-2018 based on the trend learnt from the highest prices in the period 2006-2015. LSTM model was built that made predictions with an RMSE of 1.6.
 
 Link to data set : https://www.kaggle.com/szrlee/stock-time-series-20050101-to-20171231
 

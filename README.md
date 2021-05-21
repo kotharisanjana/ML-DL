@@ -26,7 +26,13 @@ Link to dataset : https://www.kaggle.com/uciml/human-activity-recognition-with-s
 
 # MNIST Digit Recognition
 
-MNIST_CNN.ipynb - Implementation of digit recognizer using Convolutional Neural Network in Tensorflow. MNIST_Autoencoder.ipynb - Implementation using and AutoEncoder(AE) for digit classification using keras.
+MNIST_CNN.ipynb - Implementation of digit recognizer using Convolutional Neural Network in Tensorflow. 
+MNIST_Autoencoder.ipynb - Implementation using and AutoEncoder(AE) for digit classification using keras.
 
 Link to dataset : https://www.kaggle.com/oddrationale/mnist-in-csv
 
+# Research Articles Classification
+
+Research articles are tagged to different topics depending on the research paper abstract. Implementations for DNN, CNN and RNN done.
+
+Link to dataset : https://www.kaggle.com/vetrirah/janatahack-independence-day-2020-ml-hackathon
